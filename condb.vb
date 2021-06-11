@@ -7,7 +7,7 @@
     Public adt As New SqlClient.SqlDataAdapter
     Public ds As New DataSet
     Public sql As String
-    'asascomentario de prueba
+    'asascomentario de pruebaddddddddd
     Public Sub conecta()
 
         conectar.ConnectionString = ("Data Source=GE60;Initial Catalog=base_proyecto;Integrated Security=True")
